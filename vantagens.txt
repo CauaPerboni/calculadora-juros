@@ -1,0 +1,13 @@
+Utilidade do Projeto
+
+A Calculadora de Empréstimos é uma ferramenta prática e acessível para qualquer pessoa que esteja considerando solicitar um empréstimo, seja para financiar um carro, uma casa, ou cobrir despesas pessoais. Em situações reais, essa calculadora pode ser extremamente útil de várias maneiras:
+
+1. Planejamento Financeiro: Ao permitir que os usuários simulem diferentes cenários de empréstimos, a calculadora ajuda a visualizar o impacto financeiro das parcelas mensais no orçamento pessoal. Isso é crucial para evitar surpresas financeiras desagradáveis e garantir que o pagamento das parcelas será viável.
+
+2. Comparação de Opções: Os usuários podem comparar diferentes taxas de juros e prazos de pagamento, ajudando-os a escolher a opção mais econômica. Essa comparação pode evitar decisões impulsivas e garantir que o empréstimo escolhido seja o mais adequado às suas necessidades.
+
+3. Compreensão dos Custos: Através da visualização do gráfico de amortização, os usuários podem entender como os pagamentos afetam o saldo devedor ao longo do tempo. Isso é particularmente útil para perceber quanto do pagamento vai para juros e quanto reduz o principal, promovendo maior transparência na relação com as instituições financeiras.
+
+4. Tomada de Decisões: Com informações claras e fáceis de entender, os usuários estão mais bem preparados para tomar decisões informadas sobre se devem ou não contrair um empréstimo, e qual seria a melhor estratégia para pagá-lo.
+
+Em resumo, a Calculadora de Empréstimos não apenas facilita o processo de cálculo, mas também educa os usuários sobre o funcionamento de empréstimos, promovendo uma gestão financeira mais consciente e responsável.
